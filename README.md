@@ -1,5 +1,6 @@
 # A-Good-Game
-Simple rules guide for a good game
+> [!NOTE]
+> Simple rules guide for a good game
 
 created [Friday, June 14, 2024, 20:16:02]
 
